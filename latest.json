@@ -1,0 +1,6 @@
+{
+  "build": 30,
+  "version": "0.1.30",
+  "url": "https://raw.githubusercontent.com/Microburo/voir-ingest-releases/main/VOIR-Ingest-30.zip",
+  "notes": "Craft : attente du 1080p Vimeo avant l'import des films, retrait de la règle adaptive"
+}
